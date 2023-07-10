@@ -32,7 +32,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Smartphone (please complete the following information):**
 
-- Device: [e.g. iPhone6]
+- Device: [e.g. iPhone
+]
 - OS: [e.g. iOS8.1]
 - Browser [e.g. stock browser, safari]
 - Version [e.g. 22]
